@@ -1,5 +1,5 @@
 <?php
 
-echo "Hello World abuharis testing"
-
+echo "Oh";
+phpinfo();
 ?>
